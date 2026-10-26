@@ -1,16 +1,20 @@
-## Hi there 👋
+# EnriQ | AI Systems Architect & Automation Engineer
 
-<!--
-**srthenrique-stack/srthenrique-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building deterministic orchestration pipelines, autonomous agent gateways, and local-hosted LLM systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Focus
+- **Architectures:** Multi-agent swarms, MCP servers, deterministic fallbacks, hybrid local/cloud inference.
+- **Stacks:** Python, n8n, Supabase, PostgreSQL, Docker, Ollama.
+- **Workflow Engineering:** Automated CI/CD validation for workflow exports, secret lifecycle management.
+
+---
+
+### Featured Projects
+- **[project-forge](https://github.com/srthenrique-stack/project-forge)** — Automated research, validation workflows, and prototyping pipeline.
+
+---
+
+### Connect
+- **GitHub:** [@srthenrique-stack](https://github.com/srthenrique-stack)
