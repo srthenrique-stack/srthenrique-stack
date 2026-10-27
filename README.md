@@ -1,18 +1,18 @@
-# EnriQ | AI Systems Architect & Automation Engineer
+﻿# EnriQ | AI Systems Architect & Automation Engineer
 
-Building deterministic orchestration pipelines, autonomous agent gateways, and local-hosted LLM systems.
+Building deterministic orchestration pipelines, autonomous agent gateways, and local/hosted LLM systems.
 
 ---
 
 ### Technical Focus
-- **Architectures:** Multi-agent swarms, MCP servers, deterministic fallbacks, hybrid local/cloud inference.
+- **Architectures:** Multi-agent swarms, Model Context Protocol (MCP) servers, deterministic fallback loops, hybrid local/cloud inference.
 - **Stacks:** Python, n8n, Supabase, PostgreSQL, Docker, Ollama.
-- **Workflow Engineering:** Automated CI/CD validation for workflow exports, secret lifecycle management.
+- **Automation & DevSecOps:** Automated CI/CD validation for workflow exports, secret lifecycle management, and strict repository guardrails.
 
 ---
 
 ### Featured Projects
-- **[project-forge](https://github.com/srthenrique-stack/project-forge)** — Automated research, validation workflows, and prototyping pipeline.
+- **[project-forge](https://github.com/srthenrique-stack/project-forge)** — Automated multi-agent research pipelines, validation workflows, and test harnesses.
 
 ---
 
